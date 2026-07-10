@@ -5,6 +5,10 @@
 
 > 作者 / Author：**sakuraoxo（喂鱼）**
 
+> **原始项目声明：** 本仓库是 **喂鱼（sakuraoxo）** 发布的 `wechat-publisher` 原始公开来源。任何 fork、二创、教程、公开展示或再分发版本，都必须保留原作者署名与原始仓库链接，不得暗示修改版是完全原创或原作者官方发布。署名信息见文末[「署名 / Attribution」](#署名--attribution)。
+>
+> **Original project notice:** This repository is the original public source of `wechat-publisher` by **喂鱼 (sakuraoxo)**. Forks, derivative works, tutorials, public showcases, and redistributed versions must retain the original attribution and the link to this repository, and must not imply that modified versions are original or official releases by the original author.
+
 跟市面上「Markdown 一键转公众号」的工具不一样的地方在于：它不是套一个固定模板，而是让 **AI 照着一套组件库，为你这篇文章的内容现场手写排版**——卡片、编号小标题、深色金句框、还有**内联 SVG 信息图**（对比图、时间线、飞轮，矢量清晰且不占图片配额）。所以同样一篇稿子，出来的不是「文档感」，而是「设计过」。
 
 ---
@@ -144,6 +148,16 @@ wechat-publisher/
 - 一键发布依赖**已认证**公众号；个人订阅号通常没有 `draft/add` 权限，请用「用法一：只排版」。
 
 ---
+
+## 署名 / Attribution
+
+- **作者 ID：喂鱼**（全平台同名）· GitHub：**sakuraoxo**
+- **公众号：喂鱼**
+- **原始仓库：** https://github.com/sakuraoxo-clio/wechat-publisher
+
+本项目以 MIT 协议开源，欢迎 fork 和二创。修改版、教程或再分发版本须在其 README、注释或文档中保留以上署名与原始仓库链接，并注明所做修改；不得将修改版表述为原作者的官方版本。
+
+Licensed under MIT — forks and derivatives are welcome. Modified or redistributed versions must retain the attribution above and the original repository link in their README, comments, or documentation, state their modifications, and must not present themselves as official releases by the original author.
 
 ## License
 

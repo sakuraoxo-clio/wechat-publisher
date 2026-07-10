@@ -145,4 +145,7 @@ npx tsx publish.ts <文章.md> [--title ..] [--author ..] [--cover <路径> | --
 
 ---
 
-> 作者 / Author：**sakuraoxo（喂鱼）** · MIT License
+> 作者 / Author：**sakuraoxo（喂鱼）** · 公众号：**喂鱼** · MIT License
+> 原始仓库 / Original repo：https://github.com/sakuraoxo-clio/wechat-publisher
+> 二创/再分发须保留本署名与原始仓库链接，不得暗示修改版为原作者官方发布。
+> Derivatives must retain this attribution and the original repo link, and must not imply they are official releases by the original author.
